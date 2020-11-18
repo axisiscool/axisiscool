@@ -6,4 +6,4 @@ Here's some of the things I'm doing:
 
 - 🔭 I’m currently working on **[omniadiscord/Omnia](https://github.com/omniadiscord/Omnia)**, a bot for Discord made with TypeScript. 
 - 🌱 I’m currently learning TypeScript and Kotlin.
-- 📫 How to reach me: My Discord, **Axis#0001**
+- 📫 How to reach me: My Discord, **Chisel#0001**
