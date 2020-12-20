@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Jonathan, a 16 year old developer living in NYC.
+I'm Jonathan, a 17 year old developer.
 
 Here's some of the things I'm doing:
 
