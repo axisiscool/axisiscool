@@ -4,7 +4,6 @@ I'm Jonathan, a 17 year old developer.
 
 Here's some of the things I'm doing:
 
-- 🔭 I’m currently working on **[octodiscord/OctoBot](https://github.com/octodiscord/OctoBot)**, a bot for Discord made with TypeScript. 
 - 🌱 I’m currently learning TypeScript and Kotlin.
 - 📫 How to reach me: My Discord, **Axis#9999**
 
