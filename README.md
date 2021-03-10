@@ -6,7 +6,7 @@ Here's some of the things I'm doing:
 
 - 🌱 I’m currently learning TypeScript and Go.
 - 📫 How to reach me: My Discord, **Axis#9999**
-- 🔨 I'm currently working on [Clippy.gg](https://github.com/ClippyShareX), an image hosting service, and [Blueprint](https://github.com/blueprint-js/blueprint), a customizable Eris Framework.
+- 🔨 I'm currently working on [astral.cool](https://github.com/astralcool), an image hosting service, and [Blueprint](https://github.com/blueprint-js/blueprint), a customizable Eris Framework.
 
 ### Github Stats
 
