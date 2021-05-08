@@ -1,13 +1,13 @@
-### Hi there!
+![](https://komarev.com/ghpvc/?username=yaboyaxis&color=orange) 
 
-I'm Jonathan, a 17 year old developer.
+### Hey there, I'm Jonathan.
 
 Here's some of the things I'm doing:
 
 - I’m currently learning Rust and Go.
-- How to reach me: My Discord, **Axis#1010**
-- I'm currently working on [astral.cool](https://github.com/astralcool), an image hosting service, and [Blueprint](https://github.com/blueprint-js/blueprint), a customizable Eris Framework.
+- You can reach me via [Discord](https://discord.com/users/461750180388274180/).
+- I'm currently working on [astral.cool](https://github.com/astralcool), an image hosting service.
 
-### Github Stats
+![](https://github-readme-stats.vercel.app/api/wakatime?username=yaboyaxis&layout=compact)
 
-![Axis' Github Stats](https://github-readme-stats.vercel.app/api?username=yaboyaxis&show_icons=true&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=yaboyaxis&show_icons=false&theme=dark&custom_title=GitHub%20Stats)
