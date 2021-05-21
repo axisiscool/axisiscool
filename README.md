@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=yaboyaxis&color=orange) 
+![](https://komarev.com/ghpvc/?username=axisiscool&color=orange) 
 
 ### Hey there, I'm Jonathan.
 
@@ -10,4 +10,4 @@ Here's some of the things I'm doing:
 
 ![](https://github-readme-stats.vercel.app/api/wakatime?username=yaboyaxis&layout=compact)
 
-![](https://github-readme-stats.vercel.app/api?username=yaboyaxis&show_icons=false&theme=dark&custom_title=GitHub%20Stats)
+![](https://github-readme-stats.vercel.app/api?username=axisiscool&show_icons=false&theme=dark&custom_title=GitHub%20Stats)
