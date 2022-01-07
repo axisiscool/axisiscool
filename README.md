@@ -1,11 +1,17 @@
-![](https://komarev.com/ghpvc/?username=axisiscool&color=orange) 
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=axisiscool&count_private=true&include_all_commits=true&show_icons=true&theme=dark&hide_border=true">
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=axisiscool&theme=dark&hide_border=true&layout=compact&langs_count=6">
 
-### Hey there, I'm Jonathan.
+## Hey there, I'm Jonathan.
 
-Here's some of the things I'm doing:
+A high school student and backend developer from the United States.
 
-- I’m currently learning Rust and Go.
-- You can reach me via [Discord](https://discord.com/users/461750180388274180/).
-- I'm currently working on [astral.cool](https://github.com/astralcool), an image hosting service.
+**What I use for my projects:**
 
-![](https://github-readme-stats.vercel.app/api?username=axisiscool&show_icons=false&theme=dark&custom_title=GitHub%20Stats)
+<img alt="Node.js" align="center" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /> <img alt="Golang" align="center" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
+
+**Some projects I'm working on:**
+
+- [Sound's Utilities](https://github.com/SoundDrout-Dev)
+  - A private moderation bot for Sound's World.
+- [Beacon](https://beacon.wtf)
+  - A moderation bot for Discord.
