@@ -3,7 +3,7 @@
 
 ## Hey there, I'm Jonathan.
 
-A high school student and backend developer from the United States.
+A college student and backend developer from the United States.
 
 **What I use for my projects:**
 
