@@ -11,7 +11,7 @@ A college student and backend developer from the United States.
 
 **Some projects I'm working on:**
 
-- [Sound's Utilities](https://github.com/SoundDrout-Dev)
-  - A private moderation bot for Sound's World.
+- [Velocity](https://github.com/axisiscool/velocity)
+  - A super fast API Wrapper for Perspective.
 - [Beacon](https://beacon.wtf)
   - A moderation bot for Discord.
