@@ -8,10 +8,3 @@ A college student and backend developer from the United States.
 **What I use for my projects:**
 
 <img alt="Node.js" align="center" src="https://img.shields.io/badge/-Node.js-43853d?style=flat&logo=Node.js&logoColor=white" /> <img alt="Golang" align="center" src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white" />
-
-**Some projects I'm working on:**
-
-- [Velocity](https://github.com/axisiscool/velocity)
-  - A super fast API Wrapper for Perspective.
-- [Beacon](https://beacon.wtf)
-  - A moderation bot for Discord.
